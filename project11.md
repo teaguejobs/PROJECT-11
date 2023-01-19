@@ -224,7 +224,7 @@ Update your ansible playbook with some new Ansible tasks and go through the full
 - Verify by checking our nfs server
 ![alt text](./verify%20ansible%20test.PNG)
 
-- Congratulations
-You have just automated your routine tasks by implementing your first Ansible project!
+- **Congratulations
+You have just automated your routine tasks by implementing your first Ansible project**
 
 
